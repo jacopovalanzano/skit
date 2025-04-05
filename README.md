@@ -7,13 +7,13 @@ It's only a fun project I built over the weekend. The code is messy and needs to
 
 ## Features
 
-🎵 Watch & Download – Stream videos and music or save them locally.
+ - Watch & Download – Stream videos and music or save them locally.
 
-🚀 Self-Hosted – You run it on your own machine, no external dependencies.
+ - Self-Hosted – You run it on your own machine, no external dependencies.
 
-🔍 Search & Discover – Look up songs and videos directly in the dashboard.
+ - Search & Discover – Look up songs and videos directly in the dashboard.
 
-⚡ Fast & Minimal – No bloat, just a clean UI and efficient performance.
+ - Fast & Minimal – No bloat, just a clean UI and efficient performance.
 
 <p align='center'>
 <img width="100%" src="https://raw.githubusercontent.com/jacopovalanzano/junk/refs/heads/main/Screenshot_2025-04-02_23-17-42.png">
@@ -31,12 +31,6 @@ root@root:~# cd skit
 root@root:~# npm install 
 root@root:~# node server.js # Run server on localhost:3000
 ```
-
-
-## Why?
-
-Because I wanted a simple way to manage media contents without relying on third-party websites or apps.
-This gives me full control, and now, if anyone else finds it useful, that’s a bonus.
 
 ## Disclaimer
 
