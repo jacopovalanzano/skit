@@ -11,8 +11,6 @@ function createWindow() {
         },
     });
 
-    // Load your React app (dist/index.html after build)
-    //win.loadURL(`file://${path.join(__dirname, '/build/index.html')}`);
     win.loadURL("http://localhost:3000"); // Dev mode
 
     win.on('closed', () => {
